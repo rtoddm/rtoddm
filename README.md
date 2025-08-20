@@ -10,7 +10,7 @@ Currently focusing on JavaScript, HTML5, CSS, and React — with an eye toward F
 - [**Salon Website**](https://salon-demo.netlify.app)  
   Responsive small business site deployed on Netlify. Built with HTML, CSS, and a touch of JavaScript.
 
-- [**E-Learning Website**](https://github.com/rtoddm/e_learning_page)  
+- [**E-Learning Website**](https://rtoddm.github.io/e_learning_page/)  
   A modern, responsive E-Learning webpage showcasing semantic HTML5 structure and CSS3 styling for clean layouts across devices.
 
 - [**Newsletter Signup Page**](https://rtoddm.github.io/newsletter_signup_form/)  
