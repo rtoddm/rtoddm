@@ -7,7 +7,7 @@ Currently focusing on JavaScript, HTML5, CSS, and React — with an eye toward F
 
 ## 🚀 Featured Projects
 
-- [**Salon Website**](https://salon-demo.netlify.app)  
+- [**Salon Website**](https://salonwebsite-layout.netlify.app/)  
   Responsive small business site deployed on Netlify. Built with HTML, CSS, and a touch of JavaScript.
 
 - [**E-Learning Website**](https://rtoddm.github.io/e_learning_page/)  
