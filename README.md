@@ -7,7 +7,7 @@ Currently focusing on JavaScript, HTML5, CSS, and React — with an eye toward F
 
 ## 🚀 Featured Projects
 
-- [**Unplugged Retreat Website**](https://salonwebsite-layout.netlify.app/)  
+- [**Unplugged Retreat Website**](https://rtoddm.github.io/unplugged-retreat/)  
   A mobile-first retreat website deployed on Github Pages. Built with HTML, CSS, and a touch of JavaScript.
 
 - [**Salon Website**](https://salonwebsite-layout.netlify.app/)  
