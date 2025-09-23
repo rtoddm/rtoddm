@@ -7,6 +7,9 @@ Currently focusing on JavaScript, HTML5, CSS, and React — with an eye toward F
 
 ## 🚀 Featured Projects
 
+- [**Tech Free Retreat Website**](https://salonwebsite-layout.netlify.app/)  
+  Responsive small business site deployed on Netlify. Built with HTML, CSS, and a touch of JavaScript.
+
 - [**Salon Website**](https://salonwebsite-layout.netlify.app/)  
   Responsive small business site deployed on Netlify. Built with HTML, CSS, and a touch of JavaScript.
 
