@@ -11,7 +11,7 @@ Currently focusing on JavaScript, HTML5, CSS, and React — with an eye toward F
   A mobile-first retreat website deployed on Github Pages. Built with HTML, CSS, and a touch of JavaScript.
 
 - [**Salon Website**](https://salonwebsite-layout.netlify.app/)  
-  Responsive small business site deployed on Netlify. Built with HTML, CSS, and a touch of JavaScript.
+  Desktop only version of a small business site deployed on Netlify. Built with HTML, CSS, and a touch of JavaScript.
 
 - [**E-Learning Website**](https://rtoddm.github.io/e_learning_page/)  
   A modern, responsive E-Learning webpage showcasing semantic HTML5 structure and CSS3 styling for clean layouts across devices.
