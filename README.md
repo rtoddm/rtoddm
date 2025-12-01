@@ -25,7 +25,7 @@ Currently focusing on JavaScript, HTML5, CSS, and React — with an eye toward F
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** JavaScript, React, HTML5, CSS3, JSON
+- **Frontend:** JavaScript, React, HTML5, CSS3, Bootstrap, JSON
 - **Tools:** Git, GitHub, Netlify  
 
 ---
