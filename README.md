@@ -86,8 +86,8 @@ Currently deepening React and moving toward full-stack development, with long-te
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=rtoddm&show_icons=true&hide_border=true"
-  alt="GitHub stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtoddm&theme=github_dark"
+  alt="GitHub profile summary"
 />
 
 </div>
