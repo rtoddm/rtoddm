@@ -6,8 +6,9 @@
 
 <br />
 
-Previously focused on building clean, responsive interfaces with HTML/CSS/JavaScript.  
-Currently deepening React and moving toward full-stack development (then AI integration).
+Front-end developer focused on building clean, responsive, and user-friendly web applications.
+
+Currently deepening React and moving toward full-stack development, with long-term plans to integrate AI into production applications.
 
 ---
 
@@ -18,7 +19,7 @@ Currently deepening React and moving toward full-stack development (then AI inte
   <img src="assets/time-tracking-dashboard.gif" alt="Time Tracking Dashboard preview" width="900" />
 </a>
 
-**HTML5, CSS3** — Structured for future JavaScript + JSON integration (daily/weekly/monthly views).  
+HTML5, CSS3 — Structured for future JavaScript + JSON integration to dynamically present daily, weekly, and monthly insights.  
 Live: https://rtoddm.github.io/time_tracking_dashboard/
 
 ---
@@ -28,7 +29,7 @@ Live: https://rtoddm.github.io/time_tracking_dashboard/
   <img src="assets/e-learning-website.gif" alt="E-Learning Website preview" width="900" />
 </a>
 
-**HTML5, CSS3** — Semantic structure + clean responsive layout.  
+HTML5, CSS3 — Semantic structure with a clean responsive layout across devices.  
 Live: https://rtoddm.github.io/e_learning_page/
 
 ---
@@ -38,7 +39,7 @@ Live: https://rtoddm.github.io/e_learning_page/
   <img src="assets/unplugged-retreat.gif" alt="Unplugged Retreat preview" width="900" />
 </a>
 
-**HTML, CSS, JavaScript** — Mobile-first marketing site deployed to GitHub Pages.  
+HTML, CSS, JavaScript — Mobile-first marketing site deployed via GitHub Pages.  
 Live: https://rtoddm.github.io/unplugged-retreat/
 
 ---
@@ -47,14 +48,13 @@ Live: https://rtoddm.github.io/unplugged-retreat/
 
 <div align="center">
 
-<!-- “Background button” style (Shields.io). Keep this list curated. -->
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
 
 </div>
@@ -65,19 +65,10 @@ Live: https://rtoddm.github.io/unplugged-retreat/
 
 <div align="center">
 
-<!-- Option A (usually works). If it breaks due to rate limiting, use Option B below. -->
 <img
   src="https://github-readme-stats.vercel.app/api?username=rtoddm&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"
   alt="GitHub stats"
 />
-
-<!-- Option B (fallback). Uncomment if Option A is broken for you. -->
-<!--
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtoddm&theme=github"
-  alt="GitHub profile summary"
-/>
--->
 
 </div>
 
@@ -90,8 +81,17 @@ Live: https://rtoddm.github.io/unplugged-retreat/
 <a href="https://www.linkedin.com/in/todd-m-1a7aa8215/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="https://toddmoussallem.com">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.frontendmentor.io/profile/rtoddm">
+  <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" />
+</a>
+
+<a href="https://www.codewars.com/users/rtoddm">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
 </a>
 
 </div>
