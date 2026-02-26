@@ -44,6 +44,26 @@ Live: https://rtoddm.github.io/unplugged-retreat/
 
 ---
 
+## Newsletter Signup Page
+<a href="https://rtoddm.github.io/newsletter_signup_form/">
+  <img src="assets/newsletter-signup.gif" alt="Newsletter Signup preview" width="900" />
+</a>
+
+Responsive signup page demonstrating semantic HTML5 structure, CSS3 styling, and lightweight JavaScript form validation.  
+Live: https://rtoddm.github.io/newsletter_signup_form/
+
+---
+
+## Salon Website
+<a href="https://salonwebsite-layout.netlify.app/">
+  <img src="assets/salon-website.gif" alt="Salon Website preview" width="900" />
+</a>
+
+Desktop-focused small business website deployed on Netlify. Built with HTML, CSS, and JavaScript fundamentals.  
+Live: https://salonwebsite-layout.netlify.app/
+
+---
+
 # Technologies
 
 <div align="center">
