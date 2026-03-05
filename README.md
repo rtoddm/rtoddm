@@ -27,7 +27,7 @@ Currently deepening React and moving toward full-stack development, with long-te
 
 ---
 
-# Projects
+# Featured Projects
 
 ## Time Tracking Dashboard
 <a href="https://rtoddm.github.io/time_tracking_dashboard/">
@@ -43,6 +43,8 @@ Currently deepening React and moving toward full-stack development, with long-te
   <img src="assets/e-learning-website.gif" width="900" />
 </a>
 
+![elearning](https://github.com/user-attachments/assets/b19ea06b-750f-420b-aa34-2f3146cff401)
+
 ---
 
 ## Unplugged Retreat Website
@@ -50,12 +52,16 @@ Currently deepening React and moving toward full-stack development, with long-te
   <img src="assets/unplugged-retreat.gif" width="900" />
 </a>
 
+![unplugged_retreat](https://github.com/user-attachments/assets/d87108db-7a2b-40b3-a8a3-2ca58439f452)
+
 ---
 
 ## Newsletter Signup Page
 <a href="https://rtoddm.github.io/newsletter_signup_form/">
   <img src="assets/newsletter-signup.gif" width="900" />
 </a>
+
+![newsletter](https://github.com/user-attachments/assets/377ad427-da53-40ee-9f86-b5165a9ca7f3)
 
 ---
 
