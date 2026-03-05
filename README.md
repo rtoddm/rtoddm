@@ -34,6 +34,8 @@ Currently deepening React and moving toward full-stack development, with long-te
   <img src="assets/time-tracking-dashboard.gif" width="900" />
 </a>
 
+![dashboard](https://github.com/user-attachments/assets/ebd7040f-ab15-4fe5-808c-8471fa6c044a)
+
 ---
 
 ## E-Learning Website
