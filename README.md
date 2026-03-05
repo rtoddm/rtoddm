@@ -25,6 +25,8 @@ Front-end developer focused on building clean, responsive, and user-friendly web
 
 Currently deepening React and moving toward full-stack development, with long-term plans to integrate AI into production applications.
 
+See [my website] (https://toddmoussallem.com) for more information!
+
 ---
 
 # Featured Projects
