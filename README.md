@@ -65,13 +65,6 @@ Currently deepening React and moving toward full-stack development, with long-te
 
 ---
 
-## Salon Website
-<a href="https://salonwebsite-layout.netlify.app/">
-  <img src="assets/salon-website.gif" width="900" />
-</a>
-
----
-
 # Technologies
 
 <div align="center">
