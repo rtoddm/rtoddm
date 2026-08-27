@@ -44,8 +44,7 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## Time Tracking Dashboard
 <a href="https://rtoddm.github.io/time_tracking_dashboard/">
-  <img src="https://github.com/user-attachments/assets/27b33553-a0fe-491a-9e8a-e279e1774cf2" width="5<img width="800" height="493" alt="unplugged_retreat" src="https://github.com/user-attachments/assets/203b0a84-50d0-497e-a869-73837fc8f9e5" />
-00" />
+  <img src="https://github.com/user-attachments/assets/27b33553-a0fe-491a-9e8a-e279e1774cf2" width="500" />
 </a>
 
 
@@ -60,7 +59,7 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## E-Learning Website
 <a href="https://rtoddm.github.io/e_learning_page/">
-  <img src="https://github.com/user-attachments/assets/17b210c0-6bab-453e-b99f-7dc8d17b1ebc" width="700" />
+  <img src="https://github.com/user-attachments/assets/17b210c0-6bab-453e-b99f-7dc8d17b1ebc" width="500" />
 </a>
 
 ---
