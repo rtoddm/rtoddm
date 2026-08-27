@@ -32,7 +32,7 @@ See [my website](https://toddmoussallem.com) for more information!
 # Featured Projects
 
 ## BayStorm Baseball
-<a href="https://baystormbaseball.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://baystormbaseball.netlify.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/04b22a3d-bbc1-4f7c-ab7c-0f2df4535ef6" width="400" />
 </a>
 
