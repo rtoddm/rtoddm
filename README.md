@@ -33,7 +33,7 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## BayStorm Baseball
 <a href="https://baystormbaseball.netlify.app/">
-  <img src="https://github.com/user-attachments/assets/04b22a3d-bbc1-4f7c-ab7c-0f2df4535ef6" width="500" />
+  <img src="https://github.com/user-attachments/assets/04b22a3d-bbc1-4f7c-ab7c-0f2df4535ef6" width="400" />
 </a>
 
 
@@ -44,7 +44,7 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## Time Tracking Dashboard
 <a href="https://rtoddm.github.io/time_tracking_dashboard/">
-  <img src="https://github.com/user-attachments/assets/27b33553-a0fe-491a-9e8a-e279e1774cf2" width="500" />
+  <img src="https://github.com/user-attachments/assets/27b33553-a0fe-491a-9e8a-e279e1774cf2" width="400" />
 </a>
 
 
@@ -52,14 +52,14 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## Unplugged Retreat Website
 <a href="https://rtoddm.github.io/unplugged-retreat/">
-  <img src="https://github.com/user-attachments/assets/0aa59fad-1b2c-48b7-ba5b-d2f7b89051ba" width="500" />
+  <img src="https://github.com/user-attachments/assets/0aa59fad-1b2c-48b7-ba5b-d2f7b89051ba" width="400" />
 </a>
 
 ---
 
 ## E-Learning Website
 <a href="https://rtoddm.github.io/e_learning_page/">
-  <img src="https://github.com/user-attachments/assets/17b210c0-6bab-453e-b99f-7dc8d17b1ebc" width="500" />
+  <img src="https://github.com/user-attachments/assets/17b210c0-6bab-453e-b99f-7dc8d17b1ebc" width="400" />
 </a>
 
 ---
