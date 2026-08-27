@@ -33,8 +33,9 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## BayStorm Baseball
 <a href="https://baystormbaseball.netlify.app/">
-  <img src="https://github.com/user-attachments/assets/04b22a3d-bbc1-4f7c-ab7c-0f2df4535ef6" width="700" />
+  <img src="https://github.com/user-attachments/assets/04b22a3d-bbc1-4f7c-ab7c-0f2df4535ef6" width="500" />
 </a>
+
 
 <p>Freelance website built for BayStorm Baseball, a small business that provides youth baseball pitching instruction and training. </p>
 
@@ -43,21 +44,23 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## Time Tracking Dashboard
 <a href="https://rtoddm.github.io/time_tracking_dashboard/">
-  <img src="assets/time-tracking-dashboard.gif" width="700" />
+  <img src="https://github.com/user-attachments/assets/27b33553-a0fe-491a-9e8a-e279e1774cf2" width="5<img width="800" height="493" alt="unplugged_retreat" src="https://github.com/user-attachments/assets/203b0a84-50d0-497e-a869-73837fc8f9e5" />
+00" />
 </a>
+
 
 ---
 
 ## Unplugged Retreat Website
 <a href="https://rtoddm.github.io/unplugged-retreat/">
-  <img src="assets/unplugged-retreat.gif" width="700" />
+  <img src="https://github.com/user-attachments/assets/0aa59fad-1b2c-48b7-ba5b-d2f7b89051ba" width="500" />
 </a>
 
 ---
 
 ## E-Learning Website
 <a href="https://rtoddm.github.io/e_learning_page/">
-  <img src="assets/e-learning-website.gif" width="700" />
+  <img src="https://github.com/user-attachments/assets/17b210c0-6bab-453e-b99f-7dc8d17b1ebc" width="700" />
 </a>
 
 ---
