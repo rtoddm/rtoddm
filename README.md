@@ -33,7 +33,7 @@ See [my website](https://toddmoussallem.com) for more information!
 
 ## BayStorm Baseball
 <a href="https://baystormbaseball.netlify.app/">
-  <img src="assets/baystorm_baseball.gif" width="700" />
+  <img src="https://github.com/user-attachments/assets/04b22a3d-bbc1-4f7c-ab7c-0f2df4535ef6" width="700" />
 </a>
 
 <p>Freelance website built for BayStorm Baseball, a small business that provides youth baseball pitching instruction and training. </p>
