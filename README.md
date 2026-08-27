@@ -31,39 +31,34 @@ See [my website](https://toddmoussallem.com) for more information!
 
 # Featured Projects
 
-## Time Tracking Dashboard
-<a href="https://rtoddm.github.io/time_tracking_dashboard/">
-  <img src="assets/time-tracking-dashboard.gif" width="900" />
+## BayStorm Baseball
+<a href="https://baystormbaseball.netlify.app/">
+  <img src="assets/baystorm_baseball.gif" width="700" />
 </a>
 
-![dashboard](https://github.com/user-attachments/assets/ebd7040f-ab15-4fe5-808c-8471fa6c044a)
+<p>Freelance website built for BayStorm Baseball, a small business that provides youth baseball pitching instruction and training. </p>
+
 
 ---
 
-## E-Learning Website
-<a href="https://rtoddm.github.io/e_learning_page/">
-  <img src="assets/e-learning-website.gif" width="900" />
+## Time Tracking Dashboard
+<a href="https://rtoddm.github.io/time_tracking_dashboard/">
+  <img src="assets/time-tracking-dashboard.gif" width="700" />
 </a>
-
-![elearning](https://github.com/user-attachments/assets/b19ea06b-750f-420b-aa34-2f3146cff401)
 
 ---
 
 ## Unplugged Retreat Website
 <a href="https://rtoddm.github.io/unplugged-retreat/">
-  <img src="assets/unplugged-retreat.gif" width="900" />
+  <img src="assets/unplugged-retreat.gif" width="700" />
 </a>
-
-![unplugged_retreat](https://github.com/user-attachments/assets/d87108db-7a2b-40b3-a8a3-2ca58439f452)
 
 ---
 
-## Newsletter Signup Page
-<a href="https://rtoddm.github.io/newsletter_signup_form/">
-  <img src="assets/newsletter-signup.gif" width="900" />
+## E-Learning Website
+<a href="https://rtoddm.github.io/e_learning_page/">
+  <img src="assets/e-learning-website.gif" width="700" />
 </a>
-
-![newsletter](https://github.com/user-attachments/assets/377ad427-da53-40ee-9f86-b5165a9ca7f3)
 
 ---
 
